@@ -7,6 +7,7 @@ body{
 h1{
     font-size: 64px;
     text-align: center;
+    padding:10px;
 }
 
 
@@ -62,6 +63,6 @@ div{
 
 footer p{
     text-align: center;
-    padding-bottom: 10px;
-    padding-right: 10px;
+    padding: 0 0 10 10px;
+ 
 }
